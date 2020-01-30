@@ -1,0 +1,17 @@
+.footer {
+  background-color: rgb(40,40,40);
+  color: white;
+  text-align: center;
+  padding: 20px;
+
+}
+
+.footer ul{
+  padding: 0;
+}
+.footer li {
+  display:inline;
+  margin: 20px;
+
+
+}

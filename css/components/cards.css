@@ -1,0 +1,32 @@
+.container {
+  width:700px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+.cards {
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.card {
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  border-radius: 4px;
+
+}
+
+.card p{
+  color: grey;
+  font-size: 12px;
+
+}
+.cards img {
+  width:100px;
+  height: 100px;
+}

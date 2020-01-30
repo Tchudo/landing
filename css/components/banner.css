@@ -1,0 +1,39 @@
+.banner {
+  height:400px;
+  background-image: url(../../images/background.png);
+  background-size: cover;
+   background-position: center;
+  display: flex;
+  align-items: center;
+
+}
+
+.banner-content {
+  width: 700px;
+  margin: 0 auto;
+  padding-bottom: 60px;
+}
+
+.banner-content h1, .banner-content p {
+  color: white;
+  line-height: 10px;
+  letter-spacing: 5px;
+}
+.banner p {
+  margin-bottom: 50px;
+  color: rgb(200,200,200);
+}
+
+.banner a {
+  background-color: #1EDD88;
+  color: white;
+  border-radius: 30px;
+  padding: 12px 20px;
+  transition: 0.5s;
+}
+
+.banner a:hover {
+  background-color: #BBF4DB;
+  color: #1EDD88;
+
+}
